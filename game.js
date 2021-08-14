@@ -1,3 +1,6 @@
-// no game here... yet ;)
+async function startGame() {
+	await pc.alert('hi!');
+	exit();
+}
 
-exit();
+startGame();
