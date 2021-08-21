@@ -31,7 +31,12 @@ let server = http.createServer((req, res) => {
 		'.woff2': 'font/woff2'
 	};
 
-	if (!fs.statSync(url).isFile()) {
+	let fileExists;
+	try {
+		fileExists = fs.statSync(url).isFile();
+	} catch (error) {}
+
+	if (!fileExists) {
 		// if the file is not found, return 404
 		res.statusCode = 404;
 		res.end(`File ${url} not found!`);
