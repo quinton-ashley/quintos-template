@@ -1,6 +1,4 @@
-async function startGame() {
-	await pc.alert('hi!');
+(async () => {
+	await alert('hi!');
 	exit();
-}
-
-startGame();
+})();
