@@ -1,9 +1,3 @@
-# quintos-template
+# quintos-games
 
-Click the green "Use this template" button to start making your own games with QuintOS.
-
-Use the [IntroToJS](https://github.com/quinton-ashley/IntroToJS/blob/main/README.md) lessons to learn how to make games using this [QuintOS](https://github.com/quinton-ashley/quintos) template!
-
-Contact <mailto:qashto@gmail.com> for Javascript lessons!
-
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/quintos-template)
+Learn how to make games like this one by taking Quinton's [IntroToJS](https://github.com/quinton-ashley/IntroToJS/blob/main/README.md) course. This game was made using [QuintOS](https://github.com/quinton-ashley/quintos), a retro game engine created by [@quinton-ashley](https://github.com/quinton-ashley). Contact <mailto:qashto@gmail.com> for coding lessons!

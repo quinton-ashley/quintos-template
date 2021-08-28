@@ -1,4 +1,4 @@
-// QuintOS.username = 'username'; // change to your username!
-QuintOS.level = 5; // type of computer
-QuintOS.dir = '.'; // . means the same directory as the QuintOS.html file
-QuintOS.gameSelect = 'game'; // name of the game file
+QuintOS.username = 'quinton-ashley';
+QuintOS.level = 5;
+QuintOS.dir = 'roms';
+// QuintOS.gameSelect = 'SuperJump';
