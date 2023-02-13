@@ -6,7 +6,7 @@
 		"java2js": "^1.2.19",
 		"jquery": "^3.6.0",
 		"p5": "^1.4.2",
-		"p5.play": "^3.5.7",
+		"p5.play": "^3.5.21",
 		"planck": "^1.0.0-alpha.4",
 		"quintos": "^4.0.20"
 	},
@@ -16,8 +16,7 @@
 		"v": "npm version patch --force",
 		"V": "npm version minor --force",
 		"version": "git add -A",
-		"postversion": "git push",
-		"relink": "npm link ../../pkg/quintos"
+		"postversion": "git push"
 	},
-	"version": "1.1.12"
+	"version": "1.1.13"
 }
