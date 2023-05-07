@@ -3,11 +3,9 @@
 	"name": "quintos-games",
 	"description": "QuintOS game project folder",
 	"dependencies": {
-		"java2js": "^1.2.20",
-		"jquery": "^3.6.0",
 		"p5": "^1.6.0",
 		"p5.play": "^3.8.3",
-		"quintos": "^5.0.3"
+		"quintos": "^6.0.0"
 	},
 	"license": "GPL-3.0-only",
 	"scripts": {
@@ -17,5 +15,5 @@
 		"version": "git add -A",
 		"postversion": "git push"
 	},
-	"version": "1.2.1"
+	"version": "1.2.2"
 }
