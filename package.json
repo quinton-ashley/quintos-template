@@ -4,7 +4,7 @@
 	"description": "QuintOS game project folder",
 	"dependencies": {
 		"p5": "^1.6.0",
-		"p5.play": "^3.8.3",
+		"p5play": "^3.8.14",
 		"quintos": "^6.0.1"
 	},
 	"license": "GPL-3.0-only",
@@ -15,5 +15,5 @@
 		"version": "git add -A",
 		"postversion": "git push"
 	},
-	"version": "1.2.3"
+	"version": "1.2.4"
 }
